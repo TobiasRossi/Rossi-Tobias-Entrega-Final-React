@@ -1,0 +1,13 @@
+.contenedorItem {
+    text-align: center;
+    border: 1px solid grey;
+    margin: 3rem;
+}
+
+.logoItem {
+    width: 50vw;
+}
+
+.itemInfo {
+    font-size: 14px;
+}

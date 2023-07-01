@@ -1,0 +1,15 @@
+.btnDetalles {
+    background-color: #fad05f;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    border-radius: 1.2rem;
+    border: none;
+    text-decoration: none;
+    color: black;
+}
+
+p {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0 10px;
+}
