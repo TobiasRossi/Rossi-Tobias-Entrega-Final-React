@@ -61,7 +61,6 @@ const Checkout = () => {
                         <hr />
                     </div>
                 ))}
-                <hr />
                 <div className="form-group">
                     <label htmlFor=""> Nombre </label>
                     <input type="text" value={nombre} onChange={(e) => setNombre(e.target.value)} />
@@ -87,7 +86,7 @@ const Checkout = () => {
                     error && <p className="mensajeError"> {error} </p>
                 }
 
-                <button className="miBtn" type="submit"> Finalizar Orden </button>
+                <button className="btnDetalles" type="submit"> Finalizar Orden </button>
 
                 {
                     ordenId && (

@@ -1,3 +1,8 @@
 .imgCarrito {
     width: 4rem;
 }
+
+.cantidadCarrito{
+    text-decoration: none;
+    color: black;
+}
